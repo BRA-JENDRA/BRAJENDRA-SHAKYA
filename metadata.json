@@ -1,0 +1,6 @@
+{
+  "name": "LMC 8.4 Pro Camera",
+  "description": "Professional manual camera with custom XML configurations, Leica profile, manual ISO, Shutter, Focus, and Exif Gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
